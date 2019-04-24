@@ -1,0 +1,9 @@
+.idea
+*.png
+.ipynb_checkpoints/
+*.csv
+*.pickle
+*.pkl
+*.zip
+*.pyc
+.DS_Store
